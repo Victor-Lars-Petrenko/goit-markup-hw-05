@@ -471,10 +471,9 @@ img {
     margin-left: auto;
 }
 
-.footer-form-label {
+.footer-form {
     display: flex;
     gap: 24px;
-
 }
 
 .footer-form-title {
