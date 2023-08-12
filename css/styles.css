@@ -509,6 +509,8 @@ img {
 
 .footer-form-btn {
     display: flex;
+    justify-content: center;
+    align-items: center;
     height: 40px;
     min-width: 165px;
     padding: 8px 24px;
